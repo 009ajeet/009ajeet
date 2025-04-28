@@ -10,7 +10,7 @@ I'm a passionate developer with strong expertise in algorithms, data structures,
 ## 📈 Competitive Programming
 - **LeetCode**: 1983 Rating | 618+ DSA Problems Solved
 - **CodeChef**: 1811 Rating (4 Star) | 167+ Problems Solved
-- **CodeForces**: 1523+ Rating (Specialist) | 250+ Problems Solved
+- **CodeForces**: 1523+ Rating (Specialist) | 500+ Problems Solved
 
 ## 🛠️ Skills
 - **Languages**: JavaScript, React, HTML, CSS
