@@ -5,6 +5,7 @@ I'm a passionate developer with strong expertise in algorithms, data structures,
 
 ## 🔭 Projects
 - **Face Emotion Detection** - A real-time facial expression recognition web application using React and face-api.js
+- **[NITT-ECAMPUS](https://github.com/009ajeet/NITT-ECAMPUS)**: A comprehensive **MERN stack** web-based campus management platform for **NIT Trichy**. It facilitates **student, faculty, and admin dashboards**, including **user authentication**, **document verification**, and **course management**.
 - *More projects coming soon...*
 
 ## 📈 Competitive Programming
